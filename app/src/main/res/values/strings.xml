@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Frases</string>
+    <string name="api_key">vCo3dHN3X0lPDIyQMy3PMEjvehjgD8WlUEqvBStK</string>
+    <string name="quotes_api_base_url">https://api.api-ninjas.com/</string>
+</resources>
